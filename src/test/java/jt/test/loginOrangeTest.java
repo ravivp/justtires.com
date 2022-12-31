@@ -5,7 +5,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
-import gt.app.App;
+import jt.app.App;
 import jt.data.Excel;
 import jt.data.LoginPageData;
 

@@ -1,7 +1,7 @@
-package gt.app;
+package jt.app;
 
-import gt.pages.DashboardPage;
-import gt.pages.LoginPage;
+import jt.pages.DashboardPage;
+import jt.pages.LoginPage;
 
 public class App {
 
