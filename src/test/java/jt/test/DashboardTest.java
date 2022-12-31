@@ -18,11 +18,16 @@ public class DashboardTest extends BaseTest {
 		SoftAssert soft= new SoftAssert();
 
 		App app=new App();
+		app.loginPage.getEnterPassword().sendKeys("");
+		app.loginPage.getEnterPassword().sendKeys("");
+		
+		
 		LoginPageData loginPageData=Excel.getLoginPageContent("1");
 
 		app.loginPage.getEnterUser().sendKeys(loginPageData.getUsername());;
 		app.loginPage.getEnterPassword().sendKeys(loginPageData.getPassword());;
 		app.loginPage.getLoginButton().click();
+	
 		
 	    soft.assertTrue(app.dashboardPage.getUserName(), "verify username on dashboard page");
 	    soft.assertTrue(app.dashboardPage.getProfilePicture(), "verify profile picture");

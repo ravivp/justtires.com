@@ -3,12 +3,14 @@ package jt.pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class LoginPage extends Base {
 
 
 	
-	By heroImage=By.xpath("//img[@alt='company-branding']");
+	By heroImage=By.cssSelector(".orangehrm-login-branding img");
+
 	By loginText=By.xpath("//h5[@class='oxd-text oxd-text--h5 orangehrm-login-title']");
 	By enterUser= By.xpath("//input[@name='username']");
 	By enterPassword= By.xpath("//input[@name='password']");
@@ -20,6 +22,8 @@ public class LoginPage extends Base {
     
 
 	public boolean getHeroImage() {
+		
+		
 		return driver.findElement(heroImage).isDisplayed();
 	}
 	public String getLoginText() {
