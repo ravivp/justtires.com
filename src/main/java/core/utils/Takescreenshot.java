@@ -7,7 +7,7 @@ import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
-import gt.pages.Base;
+import jt.pages.Base;
 
 public class Takescreenshot extends Base{
 	

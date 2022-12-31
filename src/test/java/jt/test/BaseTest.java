@@ -4,8 +4,8 @@ package jt.test;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
-import gt.app.App;
-import gt.pages.Base;
+import jt.app.App;
+import jt.pages.Base;
 
 public class BaseTest {
 	
