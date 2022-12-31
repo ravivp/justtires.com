@@ -12,6 +12,7 @@ public class App {
 	public LoginPage loginPage=new LoginPage();
 	public DashboardPage dashboardPage= new DashboardPage();
 	
+	//public ChangePasswordPage changepassword= new ChangePasswordPage();
 	
 
 }

@@ -6,8 +6,7 @@
       <class name="jt.test.loginOrangeTest">
         <methods>
           <include name="getdriver"/>
-          <include name="quiteBrowser"/>
-          <include name="verifyValidLoginCredential"/>
+          <include name="verifyContentOnLoginPage"/>
         </methods>
       </class> <!-- jt.test.loginOrangeTest -->
     </classes>
