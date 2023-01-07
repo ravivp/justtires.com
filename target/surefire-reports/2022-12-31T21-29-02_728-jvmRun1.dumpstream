@@ -1,0 +1,2681 @@
+# Created at 2022-12-31T21:30:33.051
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2022-12-31T21:30:54.585
+Unexpected IOException with stream: [
+
+# Created at 2022-12-31T21:30:54.586
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:30:54.588
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:30:54.590
+Unexpected IOException with stream: 7
+
+# Created at 2022-12-31T21:30:54.591
+Unexpected IOException with stream: 2
+
+# Created at 2022-12-31T21:30:54.592
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:30:54.594
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:30:54.595
+Unexpected IOException with stream: 2
+
+# Created at 2022-12-31T21:30:54.596
+Unexpected IOException with stream: 4
+
+# Created at 2022-12-31T21:30:54.597
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:30:54.598
+Unexpected IOException with stream: 4
+
+# Created at 2022-12-31T21:30:54.599
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:30:54.600
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:30:54.601
+Unexpected IOException with stream: 8
+
+# Created at 2022-12-31T21:30:54.602
+Unexpected IOException with stream: 4
+
+# Created at 2022-12-31T21:30:54.603
+Unexpected IOException with stream: ]
+
+# Created at 2022-12-31T21:30:54.603
+Unexpected IOException with stream: [
+
+# Created at 2022-12-31T21:30:54.605
+Unexpected IOException with stream: S
+
+# Created at 2022-12-31T21:30:54.606
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:30:54.606
+Unexpected IOException with stream: V
+
+# Created at 2022-12-31T21:30:54.607
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:30:54.609
+Unexpected IOException with stream: R
+
+# Created at 2022-12-31T21:30:54.610
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:30:54.611
+Unexpected IOException with stream: ]
+
+# Created at 2022-12-31T21:30:54.611
+Unexpected IOException with stream: :
+
+# Created at 2022-12-31T21:30:54.612
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:54.613
+Unexpected IOException with stream: T
+
+# Created at 2022-12-31T21:30:54.614
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:54.615
+Unexpected IOException: 8,1,jt.test.loginOrangeTest,getdriver(jt.test.loginOrangeTest),null,timeout: Timed out receiving message from renderer: 21.593\000A  (Session info: headless chrome=108.0.5359.125)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-RCCME7K'\002C ip: '192.168.43.144'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '17.0.4.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.125\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CWindows\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:50888}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 1e8a8c892c811f5ca548e318c1d583b3,null,timeout: Timed out receiving message from renderer: 21.593\000A  (Session info: headless chrome=108.0.5359.125)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-RCCME7K'\002C ip: '192.168.43.144'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '17.0.4.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.125\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CWindows\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:50888}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 1e8a8c892c811f5ca548e318c1d583b3,loginOrangeTest>BaseTest.getdriver:16 \00BB Timeout timeout: Timed out receiving m...,org.openqa.selenium.TimeoutException: \000Atimeout: Timed out receiving message from renderer: 21.593\000A  (Session info: headless chrome=108.0.5359.125)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-RCCME7K'\002C ip: '192.168.43.144'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '17.0.4.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.125\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CWindows\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:50888}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 1e8a8c892c811f5ca548e318c1d583b3\000A
+
+
+# Created at 2022-12-31T21:30:54.616
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:30:54.617
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.618
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:30:54.619
+Unexpected IOException: 5,1,jt.test.loginOrangeTest,verifyInvalideCredentianal(jt.test.loginOrangeTest),jt.test.loginOrangeTest,null,null
+
+
+# Created at 2022-12-31T21:30:54.621
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:54.623
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:54.624
+Unexpected IOException with stream: u
+
+# Created at 2022-12-31T21:30:54.624
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:30:54.626
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:54.627
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:54.629
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.630
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:30:54.631
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.631
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:54.632
+Unexpected IOException with stream: v
+
+# Created at 2022-12-31T21:30:54.633
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:54.634
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:54.635
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:30:54.636
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:54.637
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:30:54.638
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.639
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:54.640
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:54.640
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:54.642
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:30:54.643
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.644
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:54.645
+Unexpected IOException with stream: f
+
+# Created at 2022-12-31T21:30:54.645
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:54.647
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:54.647
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:30:54.648
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:54.649
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:54.649
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.651
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:54.652
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:30:54.653
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.653
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:54.654
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.655
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:54.656
+Unexpected IOException with stream: :
+
+# Created at 2022-12-31T21:30:54.657
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:54.658
+Unexpected IOException with stream: 2
+
+# Created at 2022-12-31T21:30:54.659
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:30:54.660
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:30:54.664
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:30:54.665
+Unexpected IOException with stream: 9
+
+# Created at 2022-12-31T21:30:54.666
+Unexpected IOException with stream: 3
+
+# Created at 2022-12-31T21:30:54.673
+Unexpected IOException with stream: 
+
+# Created at 2022-12-31T21:30:54.674
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:30:54.678
+Unexpected IOException with stream: [
+
+# Created at 2022-12-31T21:30:54.679
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:30:54.681
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:30:54.682
+Unexpected IOException with stream: 7
+
+# Created at 2022-12-31T21:30:54.683
+Unexpected IOException with stream: 2
+
+# Created at 2022-12-31T21:30:54.684
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:30:54.684
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:30:54.686
+Unexpected IOException with stream: 2
+
+# Created at 2022-12-31T21:30:54.687
+Unexpected IOException with stream: 4
+
+# Created at 2022-12-31T21:30:54.689
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:30:54.690
+Unexpected IOException with stream: 4
+
+# Created at 2022-12-31T21:30:54.690
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:30:54.691
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:30:54.692
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:30:54.693
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:30:54.693
+Unexpected IOException with stream: ]
+
+# Created at 2022-12-31T21:30:54.694
+Unexpected IOException with stream: [
+
+# Created at 2022-12-31T21:30:54.695
+Unexpected IOException with stream: S
+
+# Created at 2022-12-31T21:30:54.696
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:30:54.697
+Unexpected IOException with stream: V
+
+# Created at 2022-12-31T21:30:54.698
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:30:54.698
+Unexpected IOException with stream: R
+
+# Created at 2022-12-31T21:30:54.699
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:30:54.700
+Unexpected IOException with stream: ]
+
+# Created at 2022-12-31T21:30:54.701
+Unexpected IOException with stream: :
+
+# Created at 2022-12-31T21:30:54.701
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:54.702
+Unexpected IOException with stream: T
+
+# Created at 2022-12-31T21:30:54.703
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:54.703
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:30:54.705
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.705
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:30:54.706
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:54.707
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:54.708
+Unexpected IOException with stream: u
+
+# Created at 2022-12-31T21:30:54.712
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:30:54.714
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:54.716
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:54.717
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.718
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:30:54.719
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.719
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:54.720
+Unexpected IOException with stream: v
+
+# Created at 2022-12-31T21:30:54.721
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:54.721
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:54.722
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:30:54.724
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:54.731
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:30:54.732
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.733
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:54.734
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:54.734
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:54.735
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:30:54.736
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.736
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:54.737
+Unexpected IOException with stream: f
+
+# Created at 2022-12-31T21:30:54.738
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:54.739
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:54.740
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:30:54.741
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:54.742
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:54.743
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.744
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:54.745
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:30:54.745
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.746
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:54.747
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:54.748
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:54.749
+Unexpected IOException with stream: :
+
+# Created at 2022-12-31T21:30:54.749
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:54.750
+Unexpected IOException with stream: 2
+
+# Created at 2022-12-31T21:30:54.750
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:30:54.751
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:30:54.752
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:30:54.752
+Unexpected IOException with stream: 9
+
+# Created at 2022-12-31T21:30:54.753
+Unexpected IOException with stream: 3
+
+# Created at 2022-12-31T21:30:54.753
+Unexpected IOException with stream: 
+
+# Created at 2022-12-31T21:30:54.754
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:30:54.786
+Unexpected IOException: 9,1,jt.test.loginOrangeTest,verifyInvalideCredentianal(jt.test.loginOrangeTest),null,timeout: Timed out receiving message from renderer: 24.523\000A  (Session info: headless chrome=108.0.5359.125)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-RCCME7K'\002C ip: '192.168.43.144'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '17.0.4.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.125\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CWindows\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:50801}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 6d89235bff614d6136c6fe3a73d4ef80,null
+
+
+# Created at 2022-12-31T21:30:55.082
+Unexpected IOException with stream: S
+
+# Created at 2022-12-31T21:30:55.083
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:30:55.084
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.085
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.086
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:30:55.087
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:55.088
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:55.089
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:30:55.090
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.090
+Unexpected IOException with stream: C
+
+# Created at 2022-12-31T21:30:55.091
+Unexpected IOException with stream: h
+
+# Created at 2022-12-31T21:30:55.092
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.093
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.094
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:30:55.096
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.098
+Unexpected IOException with stream: D
+
+# Created at 2022-12-31T21:30:55.099
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.100
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:55.101
+Unexpected IOException with stream: v
+
+# Created at 2022-12-31T21:30:55.101
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.102
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.103
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.104
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:30:55.105
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:30:55.105
+Unexpected IOException with stream: 8
+
+# Created at 2022-12-31T21:30:55.106
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:30:55.107
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:30:55.108
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:30:55.109
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:30:55.110
+Unexpected IOException with stream: 3
+
+# Created at 2022-12-31T21:30:55.111
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:30:55.112
+Unexpected IOException with stream: 9
+
+# Created at 2022-12-31T21:30:55.113
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:30:55.114
+Unexpected IOException with stream: 7
+
+# Created at 2022-12-31T21:30:55.115
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:30:55.116
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.116
+Unexpected IOException with stream: (
+
+# Created at 2022-12-31T21:30:55.117
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:30:55.117
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.118
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:30:55.119
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.119
+Unexpected IOException with stream: 3
+
+# Created at 2022-12-31T21:30:55.120
+Unexpected IOException with stream: 8
+
+# Created at 2022-12-31T21:30:55.120
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:30:55.121
+Unexpected IOException with stream: 8
+
+# Created at 2022-12-31T21:30:55.121
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.122
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.122
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:30:55.123
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:30:55.123
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.124
+Unexpected IOException with stream: 9
+
+# Created at 2022-12-31T21:30:55.124
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:30:55.126
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.127
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:30:55.128
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:30:55.129
+Unexpected IOException with stream: 3
+
+# Created at 2022-12-31T21:30:55.129
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:30:55.130
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.130
+Unexpected IOException with stream: 8
+
+# Created at 2022-12-31T21:30:55.131
+Unexpected IOException with stream: 7
+
+# Created at 2022-12-31T21:30:55.131
+Unexpected IOException with stream: 4
+
+# Created at 2022-12-31T21:30:55.132
+Unexpected IOException with stream: 4
+
+# Created at 2022-12-31T21:30:55.132
+Unexpected IOException with stream: 2
+
+# Created at 2022-12-31T21:30:55.132
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:30:55.133
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.133
+Unexpected IOException with stream: 3
+
+# Created at 2022-12-31T21:30:55.134
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:30:55.134
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.134
+Unexpected IOException with stream: 3
+
+# Created at 2022-12-31T21:30:55.135
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.135
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.136
+Unexpected IOException with stream: 3
+
+# Created at 2022-12-31T21:30:55.136
+Unexpected IOException with stream: 7
+
+# Created at 2022-12-31T21:30:55.137
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:30:55.137
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:30:55.138
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.138
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:30:55.139
+Unexpected IOException with stream: -
+
+# Created at 2022-12-31T21:30:55.139
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.140
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.140
+Unexpected IOException with stream: f
+
+# Created at 2022-12-31T21:30:55.141
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.143
+Unexpected IOException with stream: /
+
+# Created at 2022-12-31T21:30:55.145
+Unexpected IOException with stream: b
+
+# Created at 2022-12-31T21:30:55.146
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.147
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.147
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:55.148
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:30:55.148
+Unexpected IOException with stream: h
+
+# Created at 2022-12-31T21:30:55.149
+Unexpected IOException with stream: -
+
+# Created at 2022-12-31T21:30:55.149
+Unexpected IOException with stream: h
+
+# Created at 2022-12-31T21:30:55.150
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.150
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.151
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:30:55.151
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.151
+Unexpected IOException with stream: /
+
+# Created at 2022-12-31T21:30:55.152
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:30:55.152
+Unexpected IOException with stream: 3
+
+# Created at 2022-12-31T21:30:55.153
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:30:55.153
+Unexpected IOException with stream: 9
+
+# Created at 2022-12-31T21:30:55.153
+Unexpected IOException with stream: @
+
+# Created at 2022-12-31T21:30:55.154
+Unexpected IOException with stream: {
+
+# Created at 2022-12-31T21:30:55.154
+Unexpected IOException with stream: #
+
+# Created at 2022-12-31T21:30:55.155
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:30:55.155
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:30:55.155
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:30:55.156
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:30:55.156
+Unexpected IOException with stream: }
+
+# Created at 2022-12-31T21:30:55.156
+Unexpected IOException with stream: )
+
+# Created at 2022-12-31T21:30:55.157
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.157
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.160
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:55.162
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.164
+Unexpected IOException with stream: p
+
+# Created at 2022-12-31T21:30:55.165
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.166
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.166
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:30:55.167
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.167
+Unexpected IOException with stream: 3
+
+# Created at 2022-12-31T21:30:55.168
+Unexpected IOException with stream: 9
+
+# Created at 2022-12-31T21:30:55.169
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:30:55.169
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:30:55.170
+Unexpected IOException with stream: 4
+
+# Created at 2022-12-31T21:30:55.170
+Unexpected IOException with stream: 
+
+# Created at 2022-12-31T21:30:55.171
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:30:55.171
+Unexpected IOException with stream: O
+
+# Created at 2022-12-31T21:30:55.172
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:55.173
+Unexpected IOException with stream: l
+
+# Created at 2022-12-31T21:30:55.174
+Unexpected IOException with stream: y
+
+# Created at 2022-12-31T21:30:55.174
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.176
+Unexpected IOException with stream: l
+
+# Created at 2022-12-31T21:30:55.178
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.179
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:30:55.180
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.180
+Unexpected IOException with stream: l
+
+# Created at 2022-12-31T21:30:55.181
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.182
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:30:55.182
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.183
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:55.184
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:55.184
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.184
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:30:55.185
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:30:55.186
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:55.186
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.187
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:55.187
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.188
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.189
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.189
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.190
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.194
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.195
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.197
+Unexpected IOException with stream: l
+
+# Created at 2022-12-31T21:30:55.197
+Unexpected IOException with stream: l
+
+# Created at 2022-12-31T21:30:55.198
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.199
+Unexpected IOException with stream: w
+
+# Created at 2022-12-31T21:30:55.200
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.200
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:30:55.201
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:30:55.201
+Unexpected IOException with stream: 
+
+# Created at 2022-12-31T21:30:55.202
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:30:55.203
+Unexpected IOException with stream: P
+
+# Created at 2022-12-31T21:30:55.204
+Unexpected IOException with stream: l
+
+# Created at 2022-12-31T21:30:55.204
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.206
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.207
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.208
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.213
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.214
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.214
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.215
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.216
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.217
+Unexpected IOException with stream: h
+
+# Created at 2022-12-31T21:30:55.218
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:30:55.219
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:30:55.220
+Unexpected IOException with stream: p
+
+# Created at 2022-12-31T21:30:55.221
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.224
+Unexpected IOException with stream: :
+
+# Created at 2022-12-31T21:30:55.228
+Unexpected IOException with stream: /
+
+# Created at 2022-12-31T21:30:55.230
+Unexpected IOException with stream: /
+
+# Created at 2022-12-31T21:30:55.232
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:30:55.233
+Unexpected IOException with stream: h
+
+# Created at 2022-12-31T21:30:55.233
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.234
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.235
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:30:55.235
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.237
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:30:55.238
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.239
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:55.240
+Unexpected IOException with stream: v
+
+# Created at 2022-12-31T21:30:55.241
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.245
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.247
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:30:55.248
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:30:55.248
+Unexpected IOException with stream: h
+
+# Created at 2022-12-31T21:30:55.249
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.249
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.250
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:30:55.250
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:55.251
+Unexpected IOException with stream: u
+
+# Created at 2022-12-31T21:30:55.251
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:30:55.253
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:30:55.254
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.254
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.255
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:30:55.256
+Unexpected IOException with stream: /
+
+# Created at 2022-12-31T21:30:55.256
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.257
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.257
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:30:55.260
+Unexpected IOException with stream: u
+
+# Created at 2022-12-31T21:30:55.263
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.269
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:55.271
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:30:55.272
+Unexpected IOException with stream: y
+
+# Created at 2022-12-31T21:30:55.273
+Unexpected IOException with stream: -
+
+# Created at 2022-12-31T21:30:55.273
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:30:55.274
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.275
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:55.277
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.279
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:55.280
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:30:55.280
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.281
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.282
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.283
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:30:55.284
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:55.284
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.285
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:55.286
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.287
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.288
+Unexpected IOException with stream: f
+
+# Created at 2022-12-31T21:30:55.288
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.289
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.290
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.290
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.291
+Unexpected IOException with stream: u
+
+# Created at 2022-12-31T21:30:55.293
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:30:55.294
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:30:55.295
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.298
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.299
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:30:55.300
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:55.300
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.301
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:55.302
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.303
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.304
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.305
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:55.306
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.307
+Unexpected IOException with stream: k
+
+# Created at 2022-12-31T21:30:55.308
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.310
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.312
+Unexpected IOException with stream: p
+
+# Created at 2022-12-31T21:30:55.314
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:55.316
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:30:55.317
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:30:55.318
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.318
+Unexpected IOException with stream: C
+
+# Created at 2022-12-31T21:30:55.319
+Unexpected IOException with stream: h
+
+# Created at 2022-12-31T21:30:55.320
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.320
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.321
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:30:55.321
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.322
+Unexpected IOException with stream: D
+
+# Created at 2022-12-31T21:30:55.324
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.325
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:55.328
+Unexpected IOException with stream: v
+
+# Created at 2022-12-31T21:30:55.329
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.330
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.331
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.332
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.332
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.333
+Unexpected IOException with stream: f
+
+# Created at 2022-12-31T21:30:55.333
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.334
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:30:55.334
+Unexpected IOException with stream: 
+
+# Created at 2022-12-31T21:30:55.335
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:30:55.335
+Unexpected IOException with stream: C
+
+# Created at 2022-12-31T21:30:55.336
+Unexpected IOException with stream: h
+
+# Created at 2022-12-31T21:30:55.336
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.337
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:30:55.337
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:30:55.338
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.339
+Unexpected IOException with stream: D
+
+# Created at 2022-12-31T21:30:55.340
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.341
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:30:55.341
+Unexpected IOException with stream: v
+
+# Created at 2022-12-31T21:30:55.343
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.343
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.344
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.345
+Unexpected IOException with stream: w
+
+# Created at 2022-12-31T21:30:55.345
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.347
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.348
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.348
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.349
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:30:55.349
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:30:55.350
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:30:55.351
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:30:55.351
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.352
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:30:55.352
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:30:55.353
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.355
+Unexpected IOException with stream: u
+
+# Created at 2022-12-31T21:30:55.356
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:30:55.356
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:30:55.357
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:30:55.358
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.358
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:30:55.359
+Unexpected IOException with stream: f
+
+# Created at 2022-12-31T21:30:55.360
+Unexpected IOException with stream: u
+
+# Created at 2022-12-31T21:30:55.361
+Unexpected IOException with stream: l
+
+# Created at 2022-12-31T21:30:55.362
+Unexpected IOException with stream: l
+
+# Created at 2022-12-31T21:30:55.363
+Unexpected IOException with stream: y
+
+# Created at 2022-12-31T21:30:55.364
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:30:55.364
+Unexpected IOException with stream: 
+
+# Created at 2022-12-31T21:30:55.365
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:30:56.547
+Unexpected IOException with stream: Dec 31, 2022 9:30:56 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2022-12-31T21:31:26.708
+Unexpected IOException with stream: [
+
+# Created at 2022-12-31T21:31:26.709
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:31:26.711
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:31:26.713
+Unexpected IOException with stream: 7
+
+# Created at 2022-12-31T21:31:26.714
+Unexpected IOException with stream: 2
+
+# Created at 2022-12-31T21:31:26.715
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:31:26.715
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:31:26.715
+Unexpected IOException with stream: 2
+
+# Created at 2022-12-31T21:31:26.716
+Unexpected IOException with stream: 4
+
+# Created at 2022-12-31T21:31:26.717
+Unexpected IOException with stream: 8
+
+# Created at 2022-12-31T21:31:26.718
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:31:26.719
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:31:26.719
+Unexpected IOException with stream: 7
+
+# Created at 2022-12-31T21:31:26.720
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:31:26.721
+Unexpected IOException with stream: 7
+
+# Created at 2022-12-31T21:31:26.721
+Unexpected IOException with stream: ]
+
+# Created at 2022-12-31T21:31:26.723
+Unexpected IOException with stream: [
+
+# Created at 2022-12-31T21:31:26.723
+Unexpected IOException with stream: S
+
+# Created at 2022-12-31T21:31:26.724
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:31:26.724
+Unexpected IOException with stream: V
+
+# Created at 2022-12-31T21:31:26.726
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:31:26.729
+Unexpected IOException with stream: R
+
+# Created at 2022-12-31T21:31:26.730
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:31:26.731
+Unexpected IOException with stream: ]
+
+# Created at 2022-12-31T21:31:26.731
+Unexpected IOException with stream: :
+
+# Created at 2022-12-31T21:31:26.732
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.733
+Unexpected IOException with stream: T
+
+# Created at 2022-12-31T21:31:26.733
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:31:26.734
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:31:26.734
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.735
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:31:26.736
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.736
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:31:26.737
+Unexpected IOException with stream: u
+
+# Created at 2022-12-31T21:31:26.737
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:31:26.738
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.738
+Unexpected IOException: 8,1,jt.test.DashboardTest,getdriver(jt.test.DashboardTest),null,timeout: Timed out receiving message from renderer: -0.018\000A  (Session info: headless chrome=108.0.5359.125)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-RCCME7K'\002C ip: '192.168.43.144'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '17.0.4.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.125\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CWindows\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:50951}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 87e21e0904be9b20a6466d717c5f1d0c,null,timeout: Timed out receiving message from renderer: -0.018\000A  (Session info: headless chrome=108.0.5359.125)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-RCCME7K'\002C ip: '192.168.43.144'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '17.0.4.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.125\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CWindows\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:50951}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 87e21e0904be9b20a6466d717c5f1d0c,DashboardTest>BaseTest.getdriver:16 \00BB Timeout timeout: Timed out receiving mes...,org.openqa.selenium.TimeoutException: \000Atimeout: Timed out receiving message from renderer: -0.018\000A  (Session info: headless chrome=108.0.5359.125)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-RCCME7K'\002C ip: '192.168.43.144'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '17.0.4.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.125\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CWindows\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:50951}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 87e21e0904be9b20a6466d717c5f1d0c\000A
+
+
+# Created at 2022-12-31T21:31:26.739
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.740
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.740
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:31:26.741
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.741
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:31:26.742
+Unexpected IOException with stream: v
+
+# Created at 2022-12-31T21:31:26.743
+Unexpected IOException: 5,1,jt.test.DashboardTest,verifyUserAccount(jt.test.DashboardTest),jt.test.DashboardTest,null,null
+
+
+# Created at 2022-12-31T21:31:26.744
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:31:26.745
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:31:26.746
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:31:26.747
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.748
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:31:26.748
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.749
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:31:26.750
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:31:26.751
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:31:26.751
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:31:26.752
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.752
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.753
+Unexpected IOException with stream: f
+
+# Created at 2022-12-31T21:31:26.754
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.754
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:31:26.755
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:31:26.755
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.756
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.756
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.757
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:31:26.758
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:31:26.758
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.760
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.761
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.761
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.762
+Unexpected IOException with stream: :
+
+# Created at 2022-12-31T21:31:26.763
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.764
+Unexpected IOException with stream: 3
+
+# Created at 2022-12-31T21:31:26.764
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:31:26.765
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:31:26.766
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:31:26.766
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:31:26.767
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:31:26.767
+Unexpected IOException with stream: 
+
+# Created at 2022-12-31T21:31:26.768
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:31:26.768
+Unexpected IOException with stream: [
+
+# Created at 2022-12-31T21:31:26.769
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:31:26.769
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:31:26.770
+Unexpected IOException with stream: 7
+
+# Created at 2022-12-31T21:31:26.770
+Unexpected IOException with stream: 2
+
+# Created at 2022-12-31T21:31:26.771
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:31:26.771
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:31:26.772
+Unexpected IOException with stream: 2
+
+# Created at 2022-12-31T21:31:26.772
+Unexpected IOException with stream: 4
+
+# Created at 2022-12-31T21:31:26.773
+Unexpected IOException with stream: 8
+
+# Created at 2022-12-31T21:31:26.773
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:31:26.774
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:31:26.774
+Unexpected IOException with stream: 7
+
+# Created at 2022-12-31T21:31:26.775
+Unexpected IOException with stream: 2
+
+# Created at 2022-12-31T21:31:26.776
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:31:26.777
+Unexpected IOException with stream: ]
+
+# Created at 2022-12-31T21:31:26.777
+Unexpected IOException with stream: [
+
+# Created at 2022-12-31T21:31:26.778
+Unexpected IOException with stream: S
+
+# Created at 2022-12-31T21:31:26.778
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:31:26.779
+Unexpected IOException with stream: V
+
+# Created at 2022-12-31T21:31:26.779
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:31:26.780
+Unexpected IOException with stream: R
+
+# Created at 2022-12-31T21:31:26.781
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:31:26.781
+Unexpected IOException with stream: ]
+
+# Created at 2022-12-31T21:31:26.782
+Unexpected IOException with stream: :
+
+# Created at 2022-12-31T21:31:26.782
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.783
+Unexpected IOException with stream: T
+
+# Created at 2022-12-31T21:31:26.784
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:31:26.786
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:31:26.787
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.788
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:31:26.788
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.789
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:31:26.790
+Unexpected IOException with stream: u
+
+# Created at 2022-12-31T21:31:26.790
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:31:26.791
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.792
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.793
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.794
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:31:26.794
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.795
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:31:26.796
+Unexpected IOException with stream: v
+
+# Created at 2022-12-31T21:31:26.797
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:31:26.797
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:31:26.798
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:31:26.800
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.801
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:31:26.802
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.803
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:31:26.803
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:31:26.804
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:31:26.805
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:31:26.806
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.806
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.807
+Unexpected IOException with stream: f
+
+# Created at 2022-12-31T21:31:26.807
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.808
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:31:26.808
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:31:26.809
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.811
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.812
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.812
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:31:26.813
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:31:26.813
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.814
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.814
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.815
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.815
+Unexpected IOException with stream: :
+
+# Created at 2022-12-31T21:31:26.816
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.817
+Unexpected IOException with stream: -
+
+# Created at 2022-12-31T21:31:26.820
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:31:26.821
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:31:26.822
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:31:26.823
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:31:26.823
+Unexpected IOException with stream: 8
+
+# Created at 2022-12-31T21:31:26.833
+Unexpected IOException with stream: 
+
+# Created at 2022-12-31T21:31:26.834
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:31:26.834
+Unexpected IOException with stream: [
+
+# Created at 2022-12-31T21:31:26.837
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:31:26.837
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:31:26.838
+Unexpected IOException with stream: 7
+
+# Created at 2022-12-31T21:31:26.839
+Unexpected IOException with stream: 2
+
+# Created at 2022-12-31T21:31:26.840
+Unexpected IOException with stream: 5
+
+# Created at 2022-12-31T21:31:26.842
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:31:26.843
+Unexpected IOException with stream: 2
+
+# Created at 2022-12-31T21:31:26.843
+Unexpected IOException with stream: 4
+
+# Created at 2022-12-31T21:31:26.844
+Unexpected IOException with stream: 8
+
+# Created at 2022-12-31T21:31:26.845
+Unexpected IOException with stream: 6
+
+# Created at 2022-12-31T21:31:26.846
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:31:26.847
+Unexpected IOException with stream: 7
+
+# Created at 2022-12-31T21:31:26.847
+Unexpected IOException with stream: 3
+
+# Created at 2022-12-31T21:31:26.848
+Unexpected IOException with stream: 3
+
+# Created at 2022-12-31T21:31:26.849
+Unexpected IOException with stream: ]
+
+# Created at 2022-12-31T21:31:26.849
+Unexpected IOException with stream: [
+
+# Created at 2022-12-31T21:31:26.850
+Unexpected IOException with stream: S
+
+# Created at 2022-12-31T21:31:26.851
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:31:26.851
+Unexpected IOException with stream: V
+
+# Created at 2022-12-31T21:31:26.852
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:31:26.853
+Unexpected IOException with stream: R
+
+# Created at 2022-12-31T21:31:26.854
+Unexpected IOException with stream: E
+
+# Created at 2022-12-31T21:31:26.856
+Unexpected IOException with stream: ]
+
+# Created at 2022-12-31T21:31:26.856
+Unexpected IOException with stream: :
+
+# Created at 2022-12-31T21:31:26.858
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.860
+Unexpected IOException with stream: T
+
+# Created at 2022-12-31T21:31:26.861
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:31:26.862
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:31:26.864
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.865
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:31:26.866
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.866
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:31:26.867
+Unexpected IOException with stream: u
+
+# Created at 2022-12-31T21:31:26.868
+Unexpected IOException with stream: t
+
+# Created at 2022-12-31T21:31:26.868
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.869
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.870
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.870
+Unexpected IOException with stream: c
+
+# Created at 2022-12-31T21:31:26.871
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.872
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:31:26.874
+Unexpected IOException with stream: v
+
+# Created at 2022-12-31T21:31:26.875
+Unexpected IOException with stream: i
+
+# Created at 2022-12-31T21:31:26.883
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:31:26.884
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:31:26.885
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.885
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:31:26.886
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.886
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:31:26.887
+Unexpected IOException with stream: s
+
+# Created at 2022-12-31T21:31:26.888
+Unexpected IOException with stream: a
+
+# Created at 2022-12-31T21:31:26.889
+Unexpected IOException with stream: g
+
+# Created at 2022-12-31T21:31:26.890
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.890
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.891
+Unexpected IOException with stream: f
+
+# Created at 2022-12-31T21:31:26.892
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.892
+Unexpected IOException with stream: o
+
+# Created at 2022-12-31T21:31:26.893
+Unexpected IOException with stream: m
+
+# Created at 2022-12-31T21:31:26.894
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.895
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.895
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.896
+Unexpected IOException with stream: n
+
+# Created at 2022-12-31T21:31:26.896
+Unexpected IOException with stream: d
+
+# Created at 2022-12-31T21:31:26.897
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.897
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.898
+Unexpected IOException with stream: e
+
+# Created at 2022-12-31T21:31:26.899
+Unexpected IOException with stream: r
+
+# Created at 2022-12-31T21:31:26.899
+Unexpected IOException with stream: :
+
+# Created at 2022-12-31T21:31:26.900
+Unexpected IOException with stream:  
+
+# Created at 2022-12-31T21:31:26.900
+Unexpected IOException with stream: -
+
+# Created at 2022-12-31T21:31:26.901
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:31:26.901
+Unexpected IOException with stream: .
+
+# Created at 2022-12-31T21:31:26.902
+Unexpected IOException with stream: 0
+
+# Created at 2022-12-31T21:31:26.903
+Unexpected IOException: 9,1,jt.test.DashboardTest,verifyUserAccount(jt.test.DashboardTest),null,timeout: Timed out receiving message from renderer: -0.018\000A  (Session info: headless chrome=108.0.5359.125)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-RCCME7K'\002C ip: '192.168.43.144'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '17.0.4.1'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 108.0.5359.125\002C chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06...\002C userDataDir: C:\005CUsers\005CWindows\005CAppData\005CLo...}\002C goog:chromeOptions: {debuggerAddress: localhost:50951}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 87e21e0904be9b20a6466d717c5f1d0c,null
+
+
+# Created at 2022-12-31T21:31:26.903
+Unexpected IOException with stream: 1
+
+# Created at 2022-12-31T21:31:26.904
+Unexpected IOException with stream: 8
+
+# Created at 2022-12-31T21:31:26.904
+Unexpected IOException with stream: 
+
+# Created at 2022-12-31T21:31:26.907
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:31:27.772
+Unexpected IOException with stream: FAILED CONFIGURATION: @BeforeMethod getdriver
+org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 19.232
+  (Session info: headless chrome=108.0.5359.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-RCCME7K', ip: '192.168.43.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Windows\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50758}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e34650e7a489c7e1aea98f166ae8afa1
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at jt.pages.Base.launchApplication(Base.java:22)
+	at jt.test.BaseTest.getdriver(BaseTest.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:63)
+	at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:348)
+	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+	at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:695)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:523)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:766)
+	at org.testng.TestRunner.run(TestRunner.java:587)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2022-12-31T21:31:27.773
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:31:27.778
+Unexpected IOException with stream: FAILED CONFIGURATION: @BeforeMethod getdriver
+org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 24.523
+  (Session info: headless chrome=108.0.5359.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-RCCME7K', ip: '192.168.43.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Windows\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50801}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d89235bff614d6136c6fe3a73d4ef80
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at jt.pages.Base.launchApplication(Base.java:22)
+	at jt.test.BaseTest.getdriver(BaseTest.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:63)
+	at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:348)
+	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+	at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:695)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:523)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:766)
+	at org.testng.TestRunner.run(TestRunner.java:587)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2022-12-31T21:31:27.779
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:31:27.780
+Unexpected IOException with stream: FAILED CONFIGURATION: @BeforeMethod getdriver
+org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 21.593
+  (Session info: headless chrome=108.0.5359.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-RCCME7K', ip: '192.168.43.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Windows\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50888}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1e8a8c892c811f5ca548e318c1d583b3
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at jt.pages.Base.launchApplication(Base.java:22)
+	at jt.test.BaseTest.getdriver(BaseTest.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:63)
+	at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:348)
+	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+	at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:695)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:523)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:766)
+	at org.testng.TestRunner.run(TestRunner.java:587)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2022-12-31T21:31:27.780
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:31:27.782
+Unexpected IOException with stream: FAILED CONFIGURATION: @BeforeMethod getdriver
+org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: -0.018
+  (Session info: headless chrome=108.0.5359.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-RCCME7K', ip: '192.168.43.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Windows\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50951}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 87e21e0904be9b20a6466d717c5f1d0c
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at jt.pages.Base.launchApplication(Base.java:22)
+	at jt.test.BaseTest.getdriver(BaseTest.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:63)
+	at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:348)
+	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+	at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:695)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:523)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:766)
+	at org.testng.TestRunner.run(TestRunner.java:587)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2022-12-31T21:31:27.783
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:31:27.785
+Unexpected IOException with stream: SKIPPED: verifyContentOnLoginPage
+org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 19.232
+  (Session info: headless chrome=108.0.5359.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-RCCME7K', ip: '192.168.43.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Windows\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50758}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e34650e7a489c7e1aea98f166ae8afa1
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at jt.pages.Base.launchApplication(Base.java:22)
+	at jt.test.BaseTest.getdriver(BaseTest.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:63)
+	at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:348)
+	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+	at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:695)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:523)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:766)
+	at org.testng.TestRunner.run(TestRunner.java:587)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2022-12-31T21:31:27.785
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:31:27.786
+Unexpected IOException with stream: SKIPPED: verifyInvalideCredentianal
+org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 24.523
+  (Session info: headless chrome=108.0.5359.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-RCCME7K', ip: '192.168.43.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Windows\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50801}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d89235bff614d6136c6fe3a73d4ef80
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at jt.pages.Base.launchApplication(Base.java:22)
+	at jt.test.BaseTest.getdriver(BaseTest.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:63)
+	at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:348)
+	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+	at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:695)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:523)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:766)
+	at org.testng.TestRunner.run(TestRunner.java:587)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2022-12-31T21:31:27.787
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:31:27.788
+Unexpected IOException with stream: SKIPPED: verifyInvalideCredentianal
+org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 24.523
+  (Session info: headless chrome=108.0.5359.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-RCCME7K', ip: '192.168.43.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Windows\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50801}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d89235bff614d6136c6fe3a73d4ef80
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at jt.pages.Base.launchApplication(Base.java:22)
+	at jt.test.BaseTest.getdriver(BaseTest.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:63)
+	at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:348)
+	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+	at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:695)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:523)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:766)
+	at org.testng.TestRunner.run(TestRunner.java:587)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2022-12-31T21:31:27.789
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:31:27.790
+Unexpected IOException with stream: SKIPPED: verifyInvalideCredentianal
+org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 24.523
+  (Session info: headless chrome=108.0.5359.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-RCCME7K', ip: '192.168.43.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Windows\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50801}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d89235bff614d6136c6fe3a73d4ef80
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at jt.pages.Base.launchApplication(Base.java:22)
+	at jt.test.BaseTest.getdriver(BaseTest.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:63)
+	at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:348)
+	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+	at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:695)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:523)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:766)
+	at org.testng.TestRunner.run(TestRunner.java:587)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2022-12-31T21:31:27.790
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:31:27.791
+Unexpected IOException with stream: SKIPPED: verifyUserAccount
+org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: -0.018
+  (Session info: headless chrome=108.0.5359.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-RCCME7K', ip: '192.168.43.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.4.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\Windows\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50951}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 87e21e0904be9b20a6466d717c5f1d0c
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at jt.pages.Base.launchApplication(Base.java:22)
+	at jt.test.BaseTest.getdriver(BaseTest.java:16)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+	at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:63)
+	at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:348)
+	at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+	at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:695)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:523)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:766)
+	at org.testng.TestRunner.run(TestRunner.java:587)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2022-12-31T21:31:27.792
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:31:27.794
+Unexpected IOException with stream: 
+===============================================
+    orange
+    Tests run: 5, Failures: 0, Skips: 5
+    Configuration Failures: 4, Skips: 0
+===============================================
+
+
+# Created at 2022-12-31T21:31:27.794
+Unexpected IOException with stream: 
+
+
+# Created at 2022-12-31T21:31:27.795
+Unexpected IOException with stream: Test suit ended
+
+
+# Created at 2022-12-31T21:31:28.809
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
