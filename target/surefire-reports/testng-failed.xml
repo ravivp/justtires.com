@@ -6,11 +6,19 @@
   </listeners>
   <test thread-count="5" parallel="tests" name="orange(failed)" verbose="0">
     <classes>
+      <class name="jt.test.DashboardTest">
+        <methods>
+          <include name="getdriver"/>
+          <include name="quiteBrowser"/>
+          <include name="verifyUserAccount"/>
+        </methods>
+      </class> <!-- jt.test.DashboardTest -->
       <class name="jt.test.loginOrangeTest">
         <methods>
           <include name="verifyContentOnLoginPage"/>
           <include name="getdriver"/>
           <include name="quiteBrowser"/>
+          <include name="verifyInvalideCredentianal"/>
         </methods>
       </class> <!-- jt.test.loginOrangeTest -->
     </classes>
